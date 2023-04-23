@@ -1,0 +1,22 @@
+{
+  "name": "utu",
+  "version": "0.0.1",
+  "description": "A youtube cmd downloader",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.5",
+    "nanospinner": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "nexe": "^4.0.0-rc.2",
+    "typescript": "^5.0.4"
+  }
+}
